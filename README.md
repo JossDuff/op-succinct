@@ -1,3 +1,7 @@
+# forked from https://github.com/succinctlabs/op-succinct/tree/taehoon/sigil
+Generate `stdin.bin` and `program.bin` by running `generate-stdin.sh` from the repo root.  We'll keep this updated with the commands/modifications we use to generate our `stdin.bin` and `program.bin`.
+
+
 # op-succinct
 
 OP Succinct turns any OP stack rollup into a full type-1 zkEVM Rollup in 1 hour using SP1.
